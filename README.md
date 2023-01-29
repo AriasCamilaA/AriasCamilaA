@@ -1,5 +1,5 @@
 <h1 align="center">Software programming technique Camila Alexandra Arias Ruiz</h1>
-<h3 align="center">I am a 19-year-old girl, a software programming technician, with knowledge in programming languages ​​such as C++, C#, ASP.net, Java, Python and PHP. I know and applied object-oriented programming, and agile development methodologies, on the other hand, I did a bootcamp in data science and artificial intelligence.</h3>
+<h3 align="center">I am a 19-year-old girl, with knowledge in programming languages ​​such as C++, C#, ASP.net, Java, Python and PHP. I know and applied object-oriented programming, and agile development methodologies, on the other hand, I did a bootcamp in data science and artificial intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariascamilaa&label=Profile%20views&color=0e75b6&style=flat" alt="ariascamilaa" /> </p>
 
