@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, and studied software analysis and development technology at SENA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AriasCamilaA](https://github.com/AriasCamilaA)
-
 - 📫 How to reach me **ariasruizcamilaa@gmail.com**
 
 - ⚡ Fun fact **I really like rubik's cubes**
