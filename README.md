@@ -19,8 +19,15 @@ I love the FrontEnd ❤️
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriasCamilaA&theme=tokyonight" /></a>
+![c-sharp-logo](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/115b1fa1-6e7a-42a2-a77f-79ee88dae9f3)
+![bootstrap](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/85190d0c-4dd8-4144-aecb-16940349ae96)
+![html-5](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/8a11d746-f3b8-407c-9864-73cc64646023)
+![css3](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/1b43a8c7-6552-4131-a288-cc71c04a1cda)
+![react](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/c9afd2e6-2214-4b63-b777-bd7bd372cad5)
+![mysql](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/c11ab360-a9ed-4673-be48-166806d1d591)
+![php-logo](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/cb8a0129-0cab-474e-acd8-10d15105ea67)
+![python](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/ba02c021-1f2b-47f4-a890-9fb52b544a7c)
+
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ariascamilaa&theme=tokyonight" alt="ariascamilaa" />
 <br/>
