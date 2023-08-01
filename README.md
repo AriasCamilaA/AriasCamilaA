@@ -25,6 +25,7 @@ I love the FrontEnd ❤️
 ![html-5](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/8a11d746-f3b8-407c-9864-73cc64646023)
 ![css3](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/1b43a8c7-6552-4131-a288-cc71c04a1cda)
 ![react](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/c9afd2e6-2214-4b63-b777-bd7bd372cad5)
+![javascript--v1](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/17c59d07-424f-4c6b-a5d2-fc87da1513f8)
 ![mysql](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/c11ab360-a9ed-4673-be48-166806d1d591)
 ![php-logo](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/cb8a0129-0cab-474e-acd8-10d15105ea67)
 ![python](https://github.com/AriasCamilaA/AriasCamilaA/assets/122493418/ba02c021-1f2b-47f4-a890-9fb52b544a7c)
