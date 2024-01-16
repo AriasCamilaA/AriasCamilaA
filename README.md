@@ -1,5 +1,5 @@
 <h1 align="center">Technician in Software Programming</h1>
-<h3 align="center">I'm Camila, I'm going to be a programmer full stack and Data Sciencist, student of technology in software,utodidact and I did bootcamp in data science, artificial intelligence and visualitation. I know and applied object-oriented programming and agile development methodologies, i take great care in the experience, architecture, and code quality of the things I build.
+<h3 align="center">I'm Camila, I'm going to be a programmer full stack and Data Sciencist, student of technology in software,utodidact and I did bootcamp in data science, artificial intelligence and visualitation. I know and applied object-oriented programming and agile development methodologies, I take great care in the experience, architecture, and code quality of the things I build.
 
 I love the FrontEnd ❤️
 </h3>
